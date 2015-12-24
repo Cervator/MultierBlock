@@ -1,0 +1,8 @@
+org.terasology.multiBlock
+org.terasology.multiBlock.recipe
+org.terasology.multiBlock2
+org.terasology.multiBlock2.block
+org.terasology.multiBlock2.component
+org.terasology.multiBlock2.event
+org.terasology.multiBlock2.recipe
+org.terasology.multiBlock2.system
